@@ -1,0 +1,53 @@
+{
+    "_comment": "Map internal game keys to display names. The section a key lives in determines its category (blitz/aura/combat_ability/keystones). Weapons and archetypes are looked up by name. If a key has an empty string value, the raw key is used as fallback.",
+
+    "archetypes": {
+        "veteran":  "Veteran",
+        "zealot":   "Zealot",
+        "psyker":   "Psyker",
+        "adamant":  "Ogryn",
+        "broker":   "Hive Scum"
+    },
+
+    "weapons": {
+        "powersword_p1_m2":  "Power Sword",
+        "combataxe_p2_m3":   "Tactical Axe",
+        "combataxe_p2_m1":   "Tactical Axe",
+        "forcesword_p1_m2":  "Blaze Force Sword",
+        "bolter_p1_m1":      "Spearhead Boltgun",
+        "shotgun_p4_m2":     "Exterminator Shotgun",
+        "laspistol_p1_m1":   "Heavy Laspistol"
+    },
+
+    "blitz": {
+        "veteran_krak_grenade":           "Krak Grenade",
+        "zealot_throwing_knives":         "Blades of Faith",
+        "psyker_grenade_smite":           "Smite",
+        "adamant_whistle":                "Remote Detonation"
+    },
+
+    "aura": {
+        "veteran_aura_gain_ammo_on_elite_kill_improved": "Survivalist",
+        "psyker_aura_ability_cooldown":                  "",
+        "psyker_cooldown_aura_improved":                 "Seer's Presence",
+        "adamant_companion_aura":                        "Part of the Squad",
+        "zealot_corruption_healing_coherency_improved":  "Beacon of Purity",
+        "zealot_toughness_damage_reduction_coherency_improved": "Benediction"
+
+    },
+
+    "combat_ability": {
+        "veteran_combat_ability_stagger_nearby_enemies":                       "Voice of Command",
+        "psyker_combat_ability_stance":                                        "Scrier's Gaze",
+        "adamant_stance":                                                      "Castigator's Stance",
+        "zealot_bolstering_prayer":                                            "Chorus of Spiritual Fortitude"
+    },
+
+    "keystones": {
+        "veteran_improved_tag":    "Focus Target!",
+        "zealot_fanatic_rage":     "Blazing Piety",
+        "psyker_empowered_grenades_passive_improved":  "Empowered Psionics",
+        "adamant_forceful":        "Forceful",
+        "adamant_companion_focus_elite": "Unleashed Brutality"
+    }
+}
