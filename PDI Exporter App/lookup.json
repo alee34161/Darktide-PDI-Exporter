@@ -28,7 +28,6 @@
 
     "aura": {
         "veteran_aura_gain_ammo_on_elite_kill_improved": "Survivalist",
-        "psyker_aura_ability_cooldown":                  "",
         "psyker_cooldown_aura_improved":                 "Seer's Presence",
         "adamant_companion_aura":                        "Part of the Squad",
         "zealot_corruption_healing_coherency_improved":  "Beacon of Purity",
