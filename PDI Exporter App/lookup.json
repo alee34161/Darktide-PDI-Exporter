@@ -5,7 +5,8 @@
         "veteran":  "Veteran",
         "zealot":   "Zealot",
         "psyker":   "Psyker",
-        "adamant":  "Ogryn",
+        "orgyn":    "Ogryn",
+        "adamant":  "Arbitrator",
         "broker":   "Hive Scum"
     },
 
