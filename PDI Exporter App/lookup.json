@@ -12,19 +12,27 @@
 
     "weapons": {
         "powersword_p1_m2":  "Power Sword",
+        "combatsword_p3_m2": "Duelling Sword",
         "combataxe_p2_m3":   "Tactical Axe",
         "combataxe_p2_m1":   "Tactical Axe",
         "forcesword_p1_m2":  "Blaze Force Sword",
         "bolter_p1_m1":      "Spearhead Boltgun",
         "shotgun_p4_m2":     "Exterminator Shotgun",
-        "laspistol_p1_m1":   "Heavy Laspistol"
+        "laspistol_p1_m1":   "Heavy Laspistol",
+        "forcestaff_p2_m1":   "Inferno Force Staff",
+        "dual_shivs_p1_m1":  "Dual Shivs",
+        "plasma_rifle_p1_m1": "Plasma Rifle",
+        "dual_autopistols_p1_m1": "Dual Autopistols",
+        "powermaul_p2_m1": "Arbites Shock Maul"
     },
 
     "blitz": {
         "veteran_krak_grenade":           "Krak Grenade",
         "zealot_throwing_knives":         "Blades of Faith",
         "psyker_grenade_smite":           "Smite",
-        "adamant_whistle":                "Remote Detonation"
+        "adamant_whistle":                "Remote Detonation",
+        "broker_blitz_missile_launcher":  "Boom Bringer",
+        "psyker_brain_burst_improved":    "Brain Rupture"
     },
 
     "aura": {
@@ -32,7 +40,8 @@
         "psyker_cooldown_aura_improved":                 "Seer's Presence",
         "adamant_companion_aura":                        "Part of the Squad",
         "zealot_corruption_healing_coherency_improved":  "Beacon of Purity",
-        "zealot_toughness_damage_reduction_coherency_improved": "Benediction"
+        "zealot_toughness_damage_reduction_coherency_improved": "Benediction",
+        "broker_aura_gunslinger_improved":                "Gunslinger Improved"
 
     },
 
@@ -40,7 +49,9 @@
         "veteran_combat_ability_stagger_nearby_enemies":                       "Voice of Command",
         "psyker_combat_ability_stance":                                        "Scrier's Gaze",
         "adamant_stance":                                                      "Castigator's Stance",
-        "zealot_bolstering_prayer":                                            "Chorus of Spiritual Fortitude"
+        "zealot_bolstering_prayer":                                            "Chorus of Spiritual Fortitude",
+        "psyker_combat_ability_force_shield":                                  "Telekine Shield",
+        "broker_ability_focus_improved":                                       "Desperado"
     },
 
     "keystones": {
@@ -48,6 +59,8 @@
         "zealot_fanatic_rage":     "Blazing Piety",
         "psyker_empowered_grenades_passive_improved":  "Empowered Psionics",
         "adamant_forceful":        "Forceful",
-        "adamant_companion_focus_elite": "Unleashed Brutality"
+        "adamant_companion_focus_elite": "Unleashed Brutality",
+        "psyker_increased_max_souls": "Warp Siphon",
+        "broker_keystone_vultures_mark_on_kill": "Vulture's Mark"
     }
 }
